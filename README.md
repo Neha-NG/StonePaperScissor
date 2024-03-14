@@ -1,2 +1,2 @@
 # StonePaperScissor
-Stone Paper Scissors game in built using JavaScript concepts.
+Stone Paper Scissors game is built using JavaScript concepts.
